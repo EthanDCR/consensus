@@ -12,7 +12,7 @@
   display: flex;
   gap: 75px;
   padding-right: 150px;
-  list-style: square;
+  list-style: none;
   font-size: large;
   color: white;
 }
