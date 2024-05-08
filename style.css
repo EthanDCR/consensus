@@ -15,6 +15,7 @@
   list-style: none;
   font-size: large;
   color: white;
+
 }
 
 .maincontainer {
@@ -60,3 +61,13 @@
   margin: 20px;
   padding: 30px;
 }
+
+.link-list {
+  color: white;
+  text-decoration: none;
+}
+
+.link-list:hover {
+  text-decoration: underline;
+}
+
