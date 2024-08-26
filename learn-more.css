@@ -1,0 +1,23 @@
+/* Stylesheet for the Learn-More page of Consensus. */
+
+body {
+    background-color: seagreen;
+}
+
+
+* {
+    color: whitesmoke;
+}
+
+.container {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.learn {
+    font-size: 72px;
+    text-decoration: underline;
+}
+
